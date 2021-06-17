@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Awesome Kasol",
+      "Content": "Well it does have lot of treks. River flows right through the village. Nice experience"
+    },
+    {
+      "id": 2,
+      "title": "Mann Ka soul",
+      "Content": "Rediscovered myself here. Pure place, untainted from the outer world"
+    },
+    {
+      "id": 3,
+      "title": "Spectacular",
+      "Content": "Whichever window you open you may confuse that those are covered with wallpapers of scenaries"
+    },
+    {
+      "id": 4,
+      "title": "Undiluted genuinity",
+      "Content": "Here the water comes from Himalayas. You can drink straight outta river. Lot of difference man."
+    },
+    {
+      "id": 5,
+      "title": "Should protect",
+      "Content": "One of the cab driver told me that he was born and raised in Kasol. From long back foreingners are visiting here nothing has changed. But when Indians started comming it changed everything it's like they are contaminating the place."
+    },
+    {
+      "title": "hello",
+      "Content": "world\n",
+      "id": 6
+    }
+  ]
+}
